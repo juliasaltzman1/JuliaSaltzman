@@ -1,16 +1,8 @@
-<img align="left" width="500" src="Audience%20Engagement%20Venn%20Diagram%20(3).png">
+<img align="left" width="350" src="Audience%20Engagement%20Venn%20Diagram%20(3).png">
 
 
 # Julia Saltzman 
 ## Quantitative Tools for Marine Conservation 
-
-
-
-
-
-
-
-
 
 ### About Me 
 
