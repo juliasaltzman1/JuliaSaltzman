@@ -1,1 +1,10 @@
-
+navbar: 
+  title: Julia Saltzman
+  left: 
+    - text: "About Me"
+      href: index.md 
+    - text: "My Research" 
+      href: 
+    - text:"Publications" 
+      href: 
+  
