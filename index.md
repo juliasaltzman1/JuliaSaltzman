@@ -13,7 +13,7 @@ I consider myself a _conservation biologist_. My current research focuses on the
 ### _Non Invasive Tools_
 I am interested in using novel and noninvasive tools to study species and ecosystems which are logistically difficult and costly to study. 
 #### Unmanned Aerial Vehicles _Using drones, I study the behavior, specifically the aggregations of Atlantic tarpon off the Coast of Miami._ 
-![image](https://github.com/juliasaltzman1/JuliaSaltzman/blob/a9f35c74d64ba4c1d626dcb5faa070653408b0d4/Tarpon%20Figure%201.jpg_)
+![image](https://github.com/juliasaltzman1/JuliaSaltzman/blob/4c28f694acd71097f5388b0f9976f3adcc3d7fc4/Tarpon%20Figure%201.jpg)
 
 
 ## Publications 
