@@ -1,4 +1,4 @@
-<img align="left" width="200" src="Audience%20Engagement%20Venn%20Diagram%20(3).png">
+<img align="left" width="900" src="Audience%20Engagement%20Venn%20Diagram%20(3).png">
 
 
 # Julia Saltzman 
