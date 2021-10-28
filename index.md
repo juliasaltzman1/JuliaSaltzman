@@ -10,7 +10,7 @@ I consider myself a _conservation biologist_. My current research focuses on the
 ## My Research 
 
 ## Publications 
-1. Whitenack, L. B., Mickley, B. L., **Saltzman, J.**, Kajiura, S. M., Macdonald, C. C., & Shiffman, D. S. (2021). Sharks, Lies, and Videotape: A content analysis of 32 years of Shark Week documentaries. BioRxiv, 2021.08.18.456878. https://doi.org/10.1101/2021.08.18.456878 
+1. Whitenack, L. B., Mickley, B. L., **Saltzman, J.**, Kajiura, S. M., Macdonald, C. C., & Shiffman, D. S. (2021). Sharks, Lies, and Videotape: A content analysis of 32 years of Shark Week documentaries. BioRxiv, 2021.08.18.456878. https://doi.org/10.1101/2021.08.18.456878 {In Review at PLOS One}
 
 You can use the [editor on GitHub](https://github.com/juliasaltzman1/JuliaSaltzman/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
