@@ -4,7 +4,7 @@ navbar:
     - text: "About Me"
       href: index.md 
     - text: "My Research" 
-      href: myresearch
+      href: myresearch.md
     - text:"Publications" 
       href: 
   
