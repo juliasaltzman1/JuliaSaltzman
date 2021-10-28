@@ -7,13 +7,6 @@
 
 I consider myself a _conservation biologist_. My current research focuses on the _population monitoring and modelling of shark and ray populations_ in the Easten Tropical Pacific. I am currently a masters student in Dr. Easton White's Quantitative Marine Ecology Lab at the University of New Hampshire. I am is an interdisciplinary marine conservation biologist. I graduated from the University of Miami in 2021 with her bachelor’s in marine science, biology, and ecosystem science and policy. At University of Miami, I worked in the Shark Research and Conservation Lab where her research focused on the impacts of prey quality and quantity on shark abundance and movements. Most recently, I worked under Dr. Catherine Macdonald at Field School conducting research on Atlantic tarpon. During her time at University of Miami, I received the Linda Farmer Fellowship and Mastraini Award to start up her work monitoring Atlantic tarpon. I am passionate _education and outreach_ and I currently working with Terranaut Club, where I help to bring girls and underrepresented genders to the forefront of exciting, hands-on, immersive experiences in science and nature. I work closely with Laurel School, an all-girls school in Ohio, where she serves as a mentor for high school students in their capstone program.
 
-<div data-controller="image-grid">
-  <img src="https://placehold.it/350x300/EEE04A/ffffff">
-  <img src="https://placehold.it/420x320/5cb85c/ffffff">
-  <img src="https://placehold.it/320x380/5bc0de/ffffff">
-  <img src="https://placehold.it/472x500/f0ad4e/ffffff">
-  <img src="https://placehold.it/540x360/FF3167/ffffff">
-</div>
 
 ## My Research 
 ![image](https://github.com/juliasaltzman1/JuliaSaltzman/blob/72b2c0a5f4f9d7c6c0f86b952b776c1b612e0d33/Audience%20Engagement%20Venn%20Diagram%20(2).png)
