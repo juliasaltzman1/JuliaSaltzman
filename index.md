@@ -28,7 +28,7 @@ I am interested in using novel and noninvasive tools to study species and ecosys
 
 #### Unmanned Aerial Vehicles
 _Using drones, I study the behavior, specifically the aggregations of Atlantic tarpon off the Coast of Miami. This is a figure from Saltzman et al. 2021, which is in prep for submission to Southeastern Naturalist._
-![(Figure from Saltzman et al. 2021 (in prep for submission to Southeastern Naturalist)](Tarpon%20Figure%201.jpg)
+
 
 #### Social Media Surveys 
 _I am currently working on a collaborative project which uses social media surveys to montitor interactions, perceptions, movements, and habitat use of critically endangered species._
