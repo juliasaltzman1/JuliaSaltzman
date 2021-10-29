@@ -61,3 +61,6 @@ I am a scientist for Skype-a-Scientist, and give weekly presentations to student
 - **Saltzman, J.** & Macdonald, C. (2021). Using drones to elucidate spawning patterns of Atlantic Tarpon Megalops atlanticus. Rosenstiel School Research Symposium, institutional conference. 
 - **Saltzman, J.** & Hammerschlag, N. (2020). Investigating the distributional abundance of teleost fishes in Biscayne Bay and its potential influence on shark habitat use. Florida Universities Elasmobranch Symposium (FUSES), regional conference. 
 - **Saltzman, J.** & Hammerschlag, N. (2020). Using baited remote underwater videos to assess potential influence of prey abundance on shark habitat use. Rosenstiel School Research Symposium, institutional conference
+
+## Want to learn more? Download my most recent CV here: 
+
