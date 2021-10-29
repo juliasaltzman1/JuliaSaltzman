@@ -26,7 +26,9 @@ My masters research will focus on the enviornmental factors which influences fil
 ### _Non Invasive Tools_
 
 I am interested in using novel and noninvasive tools to study species and ecosystems which are logistically difficult and costly to study. 
+
 <img align="left" width="300" src="Tarpon%20Figure%201.jpg">
+
 #### Unmanned Aerial Vehicles
 _Using drones, I study the behavior, specifically the aggregations of Atlantic tarpon off the Coast of Miami. This is a figure from Saltzman et al. 2021, which is in prep for submission to Southeastern Naturalist._
 
