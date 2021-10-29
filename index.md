@@ -23,7 +23,7 @@
 
 My masters research will focus on the enviornmental factors which influences filter-feeding elasmobranchs (whale sharks, manta rays, mobula eays). By employing statsical models, I hope to understand if these charasmatic megafauna can tell us information about events such as fish spawning aggregations. This study will use data taken over the last twenty years by Undersea Hunter, a dive charter at Isla del Coco or Cocos Island. As the oldest MPA, studying the shark assemblages at Cocos provides the unique opportunity to monitor the efficacy of a MPA over throughout many years of protection. 
 
-### _Non Invasive Tools_
+### _Non-Invasive Tools_
 
 I am interested in using novel and noninvasive tools to study species and ecosystems which are logistically difficult and costly to study. 
 
@@ -32,9 +32,10 @@ I am interested in using novel and noninvasive tools to study species and ecosys
 #### Unmanned Aerial Vehicles
 _Using drones, I study the behavior, specifically the aggregations of Atlantic tarpon off the Coast of Miami. This is a figure from Saltzman et al. 2021, which is in prep for submission to Southeastern Naturalist._
 
-
 #### Social Media Surveys 
 _I am currently working on a collaborative project which uses social media surveys to montitor interactions, perceptions, movements, and habitat use of critically endangered species._
+
+#### Underwater Video Stations 
 
 ## Freelance Consulting 
 _I do freelance "figure making", "formatting", and "design" for several scientists, and the Office of Research and Large Center Development at the University of New Hampshire. If you are interested in this, get into contact with me and I will share rates, and examples of my work!_
