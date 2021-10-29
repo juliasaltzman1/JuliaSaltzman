@@ -48,14 +48,11 @@ I serve as a mentor for the capstone program at Laurel, an independent research 
 #### Skype a Scientist 
 I am a scientist for Skype-a-Scientist, and give weekly presentations to students in grades K-12 about sharks and ocean conservation 
 
-ou can use the [editor on GitHub](https://github.com/juliasaltzman1/JuliaSaltzman/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ## Presentations and Conference Talks 
-**Saltzman, J.**  (October 2021). Non-Invasive Methods of Shark Research. University of New Hampshire: Department of Biological Sciences Graduate Student Seminar 
-**Saltzman, J.** (July 2021). Beyond Tagging: Non-Traditional Methods for Studying Sharks. Cornell University/University of New Hampshire: Shoals Marine Laboratory, Shark Biology Course 
-Whitenack, L., Mickey, B., **Saltzman, J.**, Kajiura, S., Macdonald, C., Shiffman, D. (2021). Sharks, Lies, and Videotape: Analysis of 32 Years of Shark Week Documentaries. American Elasmobranch Society Conference (AES), society conference. 
-**Saltzman, J.** & Macdonald, C. (2021). Using drones to elucidate spawning patterns of Atlantic Tarpon Megalops atlanticus. Rosenstiel School Research Symposium, institutional conference. 
-**Saltzman, J.** & Hammerschlag, N. (2020). Investigating the distributional abundance of teleost fishes in Biscayne Bay and its potential influence on shark habitat use. Florida Universities Elasmobranch Symposium (FUSES), regional conference. 
-**Saltzman, J.** & Hammerschlag, N. (2020). Using baited remote underwater videos to assess potential influence of prey abundance on shark habitat use. Rosenstiel School Research Symposium, institutional conference
+- **Saltzman, J.**  (October 2021). Non-Invasive Methods of Shark Research. University of New Hampshire: Department of Biological Sciences Graduate Student Seminar 
+- **Saltzman, J.** (July 2021). Beyond Tagging: Non-Traditional Methods for Studying Sharks. Cornell University/University of New Hampshire: Shoals Marine Laboratory, Shark Biology Course 
+- Whitenack, L., Mickey, B., **Saltzman, J.**, Kajiura, S., Macdonald, C., Shiffman, D. (2021). Sharks, Lies, and Videotape: Analysis of 32 Years of Shark Week Documentaries. American Elasmobranch Society Conference (AES), society conference. 
+- **Saltzman, J.** & Macdonald, C. (2021). Using drones to elucidate spawning patterns of Atlantic Tarpon Megalops atlanticus. Rosenstiel School Research Symposium, institutional conference. 
+- **Saltzman, J.** & Hammerschlag, N. (2020). Investigating the distributional abundance of teleost fishes in Biscayne Bay and its potential influence on shark habitat use. Florida Universities Elasmobranch Symposium (FUSES), regional conference. 
+- **Saltzman, J.** & Hammerschlag, N. (2020). Using baited remote underwater videos to assess potential influence of prey abundance on shark habitat use. Rosenstiel School Research Symposium, institutional conference
