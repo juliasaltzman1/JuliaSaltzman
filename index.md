@@ -65,8 +65,8 @@ I am a scientist for Skype-a-Scientist, and give weekly presentations to student
 - **Saltzman, J.** & Hammerschlag, N. (2020). Using baited remote underwater videos to assess potential influence of prey abundance on shark habitat use. Rosenstiel School Research Symposium, institutional conference
 
 ## Want to learn more? let's stay in touch: 
-***Email:*** Julia.Saltzman@UNH.edu
-***Twitter:*** @saltzyy
-***Instagram:*** @sciencewithsaltzy
+- ***Email:*** Julia.Saltzman@UNH.edu
+- ***Twitter:*** @saltzyy
+- ***Instagram:*** @sciencewithsaltzy
 
 
