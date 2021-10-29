@@ -18,8 +18,8 @@
 
 ###  _Environmental Influences on Planktivorous Elasmobranchs: a Case Study of Isla del Coco— an Isolated Marine Protected Area_
 <p float="left">
-  <img src="WhaleSharks.png" width="200" />
-  <img src="Cocos.png" width="200" /> 
+  <img src="WhaleSharks.png"  />
+  <img src="Cocos.png" /> 
 My masters research will focus on the enviornmental factors which influences filter-feeding elasmobranchs (whale sharks, manta rays, mobula eays). By employing statsical models, I hope to understand if these charasmatic megafauna can tell us information about events such as fish spawning aggregations. This study will use data taken over the last twenty years by Undersea Hunter, a dive charter at Isla del Coco or Cocos Island. As the oldest MPA, studying the shark assemblages at Cocos provides the unique opportunity to monitor the efficacy of a MPA over throughout many years of protection. 
 
 ### _Non Invasive Tools_
