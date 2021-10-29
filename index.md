@@ -39,6 +39,8 @@ _I am currently working on a collaborative project which uses social media surve
 1. Whitenack, L. B., Mickley, B. L., **Saltzman, J.**, Kajiura, S. M., Macdonald, C. C., & Shiffman, D. S. (2021). Sharks, Lies, and Videotape: A content analysis of 32 years of Shark Week documentaries. BioRxiv, 2021.08.18.456878. https://doi.org/10.1101/2021.08.18.456878 {In Review at PLOS One}
 2. **Saltzman, J.** & Macdonald, C. (2021). Using drones to elucidate spawning patterns of Atlantic Tarpon Megalops atlanticus. In Submission. 
 3. **Saltzman, J.**, Wester, J., White, E.R., & Macdonald, C. (2021). #Sawfish: Social Media as a Tool for Endangered Species Monitoring and Assessment of Public Behavior and Attitudes. In Prep. Conservation Science in Practice.
+
+
 ## Outreach, Education, and Service 
 
 #### Terranaut Club 
