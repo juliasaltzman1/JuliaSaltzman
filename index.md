@@ -5,15 +5,24 @@
 ## Quantitative Tools for Marine Conservation 
 
 ### About Me 
+- I am _conservation biologist_ using _quantitative tools_ to address conservation issues. 
+- I am currently a masters student in the Dr. Easton White's Quantitative Marine Ecology Lab at the University of New Hampshire. 
+- I do freelance consulting work in science communication, data visualization, graphic design, publication editing, and formatting. 
+- My current research focuses on the _population monitoring and modelling of shark and ray populations_ in the Eastern Tropical Pacific.
+- I am passionate _education and outreach_. I currently work with Terranaut Club, where I help facilitate immersive experiences in science and nature for girls+.
 
-I consider myself a _conservation biologist_. My current research focuses on the _population monitoring and modelling of shark and ray populations_ in the Easten Tropical Pacific. I am currently a masters student in Dr. Easton White's Quantitative Marine Ecology Lab at the University of New Hampshire. I am is an interdisciplinary marine conservation biologist. I graduated from the University of Miami in 2021 with her bachelor’s in marine science, biology, and ecosystem science and policy. At University of Miami, I worked in the Shark Research and Conservation Lab where her research focused on the impacts of prey quality and quantity on shark abundance and movements. Most recently, I worked under Dr. Catherine Macdonald at Field School conducting research on Atlantic tarpon. During her time at University of Miami, I received the Linda Farmer Fellowship and Mastraini Award to start up her work monitoring Atlantic tarpon. I am passionate _education and outreach_ and I currently working with Terranaut Club, where I help to bring girls and underrepresented genders to the forefront of exciting, hands-on, immersive experiences in science and nature. I work closely with Laurel School, an all-girls school in Ohio, where she serves as a mentor for high school students in their capstone program.
 
 
 ## My Research 
 ![(text)](Website_Venn.png)
+
+###  _Environmental Influences on Planktivorous Elasmobranchs: a Case Study of Isla del Coco— an Isolated Marine Protected Area
+I 
+
 ### _Non Invasive Tools_
 
 I am interested in using novel and noninvasive tools to study species and ecosystems which are logistically difficult and costly to study. 
+
 #### Unmanned Aerial Vehicles
 _Using drones, I study the behavior, specifically the aggregations of Atlantic tarpon off the Coast of Miami. This is a figure from Saltzman et al. 2021, which is in prep for submission to Southeastern Naturalist._
 ![(Figure from Saltzman et al. 2021 (in prep for submission to Southeastern Naturalist)](Tarpon%20Figure%201.jpg)
