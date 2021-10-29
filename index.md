@@ -35,9 +35,6 @@ _Using drones, I study the behavior, specifically the aggregations of Atlantic t
 #### Social Media Surveys 
 _I am currently working on a collaborative project which uses social media surveys to montitor interactions, perceptions, movements, and habitat use of critically endangered species._
 
-#### Underwater Video Stations 
-
-#### Marine Social Science 
 ## Freelance Consulting 
 _I do freelance "figure making", "formatting", and "design" for several scientists, and the Office of Research and Large Center Development at the University of New Hampshire. If you are interested in this, get into contact with me and I will share rates, and examples of my work!_
 
