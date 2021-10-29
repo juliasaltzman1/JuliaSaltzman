@@ -37,39 +37,25 @@ _I am currently working on a collaborative project which uses social media surve
 
 ## Publications 
 1. Whitenack, L. B., Mickley, B. L., **Saltzman, J.**, Kajiura, S. M., Macdonald, C. C., & Shiffman, D. S. (2021). Sharks, Lies, and Videotape: A content analysis of 32 years of Shark Week documentaries. BioRxiv, 2021.08.18.456878. https://doi.org/10.1101/2021.08.18.456878 {In Review at PLOS One}
+2. **Saltzman, J.** & Macdonald, C. (2021). Using drones to elucidate spawning patterns of Atlantic Tarpon Megalops atlanticus. In Submission. 
+3. **Saltzman, J.**, Wester, J., White, E.R., & Macdonald, C. (2021). #Sawfish: Social Media as a Tool for Endangered Species Monitoring and Assessment of Public Behavior and Attitudes. In Prep. Conservation Science in Practice.
+## Outreach, Education, and Service 
 
-You can use the [editor on GitHub](https://github.com/juliasaltzman1/JuliaSaltzman/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+#### Terranaut Club 
+I work with low-income students and manage social media outreach for Terranaut Club, a non-profit encouraging scientific engagement for gender minorities through experiential education.
+#### Laurel School 
+I serve as a mentor for the capstone program at Laurel, an independent research project completed by high school students over the course of four years with the guidance of a mentor in the respective field. 
+#### Skype a Scientist 
+I am a scientist for Skype-a-Scientist, and give weekly presentations to students in grades K-12 about sharks and ocean conservation 
+
+ou can use the [editor on GitHub](https://github.com/juliasaltzman1/JuliaSaltzman/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/juliasaltzman1/JuliaSaltzman/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Presentations and Conference Talks 
+**Saltzman, J.**  (October 2021). Non-Invasive Methods of Shark Research. University of New Hampshire: Department of Biological Sciences Graduate Student Seminar 
+**Saltzman, J.** (July 2021). Beyond Tagging: Non-Traditional Methods for Studying Sharks. Cornell University/University of New Hampshire: Shoals Marine Laboratory, Shark Biology Course 
+Whitenack, L., Mickey, B., **Saltzman, J.**, Kajiura, S., Macdonald, C., Shiffman, D. (2021). Sharks, Lies, and Videotape: Analysis of 32 Years of Shark Week Documentaries. American Elasmobranch Society Conference (AES), society conference. 
+**Saltzman, J.** & Macdonald, C. (2021). Using drones to elucidate spawning patterns of Atlantic Tarpon Megalops atlanticus. Rosenstiel School Research Symposium, institutional conference. 
+**Saltzman, J.** & Hammerschlag, N. (2020). Investigating the distributional abundance of teleost fishes in Biscayne Bay and its potential influence on shark habitat use. Florida Universities Elasmobranch Symposium (FUSES), regional conference. 
+**Saltzman, J.** & Hammerschlag, N. (2020). Using baited remote underwater videos to assess potential influence of prey abundance on shark habitat use. Rosenstiel School Research Symposium, institutional conference
