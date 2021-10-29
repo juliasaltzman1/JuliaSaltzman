@@ -3,7 +3,7 @@
 
 # Julia Saltzman 
 ## Quantitative Tools for Marine Conservation 
-
+![(text)](5.png)
 ### About Me 
 - I am _conservation biologist_ using _quantitative tools_ to address conservation issues. 
 - I am currently a masters student in the Dr. Easton White's Quantitative Marine Ecology Lab at the University of New Hampshire. 
@@ -37,6 +37,7 @@ _I am currently working on a collaborative project which uses social media surve
 
 #### Underwater Video Stations 
 
+#### Marine Social Science 
 ## Freelance Consulting 
 _I do freelance "figure making", "formatting", and "design" for several scientists, and the Office of Research and Large Center Development at the University of New Hampshire. If you are interested in this, get into contact with me and I will share rates, and examples of my work!_
 
