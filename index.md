@@ -37,7 +37,7 @@ _Using drones, I study the behavior, specifically the aggregations of Atlantic t
 _I am currently working on a collaborative project which uses social media surveys to montitor interactions, perceptions, movements, and habitat use of critically endangered species._
 
 ## Freelance Consulting 
-_I do freelance "figure making", "formatting", and "design" for several scientists, and the Office of Research and Large Center Development at the University of New Hampshire. If you are interested in this, get into contact with me and I will share rates, and examples of my work! 
+_I do freelance "figure making", "formatting", and "design" for several scientists, and the Office of Research and Large Center Development at the University of New Hampshire. If you are interested in this, get into contact with me and I will share rates, and examples of my work!_
 
 ## Publications 
 1. Whitenack, L. B., Mickley, B. L., **Saltzman, J.**, Kajiura, S. M., Macdonald, C. C., & Shiffman, D. S. (2021). Sharks, Lies, and Videotape: A content analysis of 32 years of Shark Week documentaries. BioRxiv, 2021.08.18.456878. https://doi.org/10.1101/2021.08.18.456878 {In Review at PLOS One}
