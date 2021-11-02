@@ -65,6 +65,8 @@ I am a scientist for Skype-a-Scientist, and give weekly presentations to student
 ## In the News 
 - Our Shark Week Paper was featured in Science News for Students
 https://www.sciencenewsforstudents.org/article/analyze-this-sharks-arent-as-scary-as-on-tv
+<img align="center" width="350" src="Popular_Press1.png">
+
 
 ## Want to learn more? Let's stay in touch: 
 - ***Email:*** Julia.Saltzman@UNH.edu
