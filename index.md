@@ -62,6 +62,10 @@ I am a scientist for Skype-a-Scientist, and give weekly presentations to student
 - **Saltzman, J.** & Hammerschlag, N. (2020). Investigating the distributional abundance of teleost fishes in Biscayne Bay and its potential influence on shark habitat use. Florida Universities Elasmobranch Symposium (FUSES), regional conference. 
 - **Saltzman, J.** & Hammerschlag, N. (2020). Using baited remote underwater videos to assess potential influence of prey abundance on shark habitat use. Rosenstiel School Research Symposium, institutional conference
 
+## In the News 
+- Our Shark Week Paper was featured in Science News for Students
+https://www.sciencenewsforstudents.org/article/analyze-this-sharks-arent-as-scary-as-on-tv
+
 ## Want to learn more? Let's stay in touch: 
 - ***Email:*** Julia.Saltzman@UNH.edu
 - ***Twitter:*** @saltzyy
